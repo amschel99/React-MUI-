@@ -1,7 +1,7 @@
 ### Material UI Social Media App template
 
 #### HOW TO GET STARTED
-###### git clone 
+###### git clone https://github.com/amschel99/React-MUI-.git
 
 ###### cd React-MUI-
 
